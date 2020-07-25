@@ -111,6 +111,10 @@
                             <skip>true</skip>
                         </configuration>
                     </plugin>
+                    <plugin>
+                        <artifactId>maven-javadoc-plugin</artifactId>
+                        <version>1.5</version>
+                    </plugin>
                 </plugins>
             </build>
         </profile>
